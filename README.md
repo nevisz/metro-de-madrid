@@ -7,6 +7,6 @@ we had to style a responsive webpage using 2 approaches:
   b. Using the Bootstrap framework!
 
 IMAGE CREDITS:
--Javier Munoz on Unsplash
--vectaicon & artfath on Flaticon
--icons8.com
+1. Javier Munoz on Unsplash
+2. vectaicon & artfath on Flaticon
+3. icons8.com
